@@ -124,4 +124,4 @@ print("Accuracy:", accuracy)
 # Printing the classification report
 print("Classification Report of k-Nearest_Neighbors_Classification:")
 print(classification_report(y_test, y_pred))
-# ------------------------------------------------------------------------------------------------------------------------------------
+# -----------------------------------------------------------------------------------------------------------------------------------
